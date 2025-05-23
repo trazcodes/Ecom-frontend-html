@@ -1,0 +1,98 @@
+
+
+.nav1 {
+    background-color: rgb(102, 100, 100);
+}
+
+
+body{
+
+    background-image: linear-gradient(to bottom, rgb(247, 134, 153), rgb(250, 191, 201), rgb(105, 219, 240));
+    background-attachment: fixed;
+    font-family: 'Oxanium', cursive !important;
+}
+.dark-mode-body {
+
+    background-image: linear-gradient(to bottom, rgb(23, 11, 86), rgb(58, 38, 38));
+    color: white;
+}
+
+.dark-mode-nav {
+
+    background-color: #1c1616;
+}
+
+
+
+.navbar-brand {
+    font-size: 80px;
+    font-family: 'Zeyada', cursive;
+    color: #141312;     
+
+}
+
+.sticky-nav2 {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    top: 70px;
+    padding-top: 20px;
+    color: black;
+}
+
+
+.icon-container {
+    width: 60px;
+    height: 60px;
+    perspective: 1000px;
+    font-family: 'Courgette', cursive;
+    font-size: 50px;
+    color: #fd9d0c;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    display: inline-block;
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
+}
+
+.icon img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.flip180 {
+    transform: rotateY(180deg);
+}
+
+
+.btn {
+
+    border-radius: 50px !important;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+
+}
+
+
+.off {
+    background-color: #000000 !important;
+    color: #fff !important;
+}
+
+.on {
+    background-color: #f0950e !important;
+    color: #fff !important;
+}
+
+.nav2-container {
+    display: flex;
+    flex: 0px;
+    background-color: #ca2c2c;
+
+}

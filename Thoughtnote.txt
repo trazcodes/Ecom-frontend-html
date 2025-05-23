@@ -1,0 +1,52 @@
+Hello,
+I'm Kushal and this is my assignment for FrontEnd Final Project.
+
+Important:
+
+* I've tried to make a Dark mode toggle button, but for now it only works for the current page in which it is turned on. In Future,I'll be making it work as long as the user turns it off.
+* As i've included the image links from other website, it may be possible that some of them may not work while evaluation.
+
+Header:
+I've made a header which is dynamically loaded to all the pages.
+I've used fixed position to make it fixed on scrolling down.
+I've used classes and js to toggle the colour of the navbar on clicking the Dark mode button.
+I've made my own brand icon using canva.com.
+It has a toggler button made for medium and small sized screen.
+
+Footer:
+
+* Contains all the products link and is added to every pages.
+* Contains grid structure as per the requirement.
+
+Homepage:
+
+Contains the products card with a cart & buy button.
+Contains an image with the brand title and slogan(Looks great when dark mode is on!).
+Contains carousal design for every sized screen.
+Responsive design.
+
+Products Folder:
+
+Contains all the product pages for Women, Men, Kids and All products.
+All the pages are responsive and aligned well.
+
+Login:
+
+Contains Email, password section.(admin@admin.com : 123456).
+Redirects to Homepage when successfully logged in.
+Contains email structure check.
+
+Cart :
+
+Contains all the structure as per the requirement.
+Responsive design.
+
+Contact us:
+
+Contains all the structure as per the requirement.
+Responsive Design.
+Form with correct types.
+
+I've completed all the requirement for this project and also added other features. 
+It was a wonderful experience for me.
+Thankyou.
